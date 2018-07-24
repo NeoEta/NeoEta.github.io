@@ -1,13 +1,13 @@
 # Site settings
-title: Miscellaneous Blog
-SEOTitle: Miscellaneous Blog  | For NeoEta
+title: Miscellaneous
+SEOTitle: Miscellaneous | For NeoEta
 header-img: img/pixiv37887041.jpg
 email: NeoIota@outlook.com
 description: "I never change whatever U change."
 keyword: "Android"
 url: "http://neoeta.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/NeoEta/NeoEta.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
