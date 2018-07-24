@@ -1,7 +1,7 @@
 # Site settings
-title: NeoEta Blog
-SEOTitle: Blog For NeoEta | Blog
-header-img: img/post-bg-desk.jpg
+title: Miscellaneous Blog
+SEOTitle: Miscellaneous Blog  | For NeoEta
+header-img: img/pixiv37887041.jpg
 email: NeoIota@outlook.com
 description: "I never change whatever U change."
 keyword: "Android"
@@ -111,3 +111,5 @@ friends: [
         href: "https://developer.apple.com/"
     }
 ]
+
+theme: jekyll-theme-midnight
