@@ -27,8 +27,6 @@ github_username:    NeoEta
 #jianshu_username:  usename
 
 
-
-
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
