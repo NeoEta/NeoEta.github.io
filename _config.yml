@@ -1,7 +1,7 @@
-# Site settings
-title: Miscellaneous
-SEOTitle: Miscellaneous | For NeoEta
-header-img: img/pixiv37887041.jpg
+﻿# Site settings
+title: Neo Blog
+SEOTitle: Neo Blog | For NeoEta
+header-img: img/Alexander.png
 email: NeoIota@outlook.com
 description: "I never change whatever U change."
 keyword: "Android"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/NeoEta/NeoEta.github.io" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "I came, I saw, I conquered."
-sidebar-avatar: /img/555.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/Neo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -20,7 +20,7 @@ sidebar-avatar: /img/555.jpg      # use absolute URL, seeing it's used in both `
 RSS: false
 # weibo_username: usename
 #zhihu_username: usename
-github_username:    NeoEta
+github_username:NeoEta
 #facebook_username: usename
 #jianshu_username: usename
 #twitter_username: usename
@@ -30,7 +30,7 @@ github_username:    NeoEta
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
-paginate: 10
+paginate: 7
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
@@ -85,12 +85,12 @@ gitalk:
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 7              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 3             # 相同标签数量大于这个数，才会出现在首页
 
 
 
 # Progressive Web Apps
-chrome-tab-theme-color: "#FFFFFF"
+chrome-tab-theme-color: "#000000"
 service-worker: true
 
 
@@ -98,14 +98,14 @@ service-worker: true
 # Friends
 friends: [
 #    {
-#        title: "WY",
-#        href: "http://zhengwuyang.com"
+#        title: "",
+#        href: ""
 #    },{
-#        title: "简书·BY",
- #       href: "http://www.jianshu.com/u/e71990ada2fd"
+#        title: "",
+ #       href: ""
 #    },{
- #       title: "Apple",
- #       href: "https://apple.com"
+ #       title: "",
+ #       href: ""
  #   },
  {
         title: "github",
