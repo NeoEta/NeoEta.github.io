@@ -11,7 +11,7 @@ github_repo: "https://github.com/NeoEta/NeoEta.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "I came, I saw, I conquered."
+sidebar-about-description: "An ordinary college student."
 sidebar-avatar: /img/Neo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
